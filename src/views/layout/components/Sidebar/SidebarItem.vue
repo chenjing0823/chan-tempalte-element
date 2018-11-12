@@ -50,13 +50,13 @@ export default {
       default: ''
     }
   },
-  data () {
+  data() {
     return {
       onlyOneChild: null
     }
   },
   methods: {
-    hasOneShowingChild (children) {
+    hasOneShowingChild(children) {
       const showingChildren = children.filter(item => {
         if (item.hidden) {
           return false
@@ -71,7 +71,7 @@ export default {
       }
       return false
     },
-    resolvePath (...paths) {
+    resolvePath(...paths) {
       return path.resolve(this.basePath, ...paths)
     }
   }
