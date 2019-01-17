@@ -1,0 +1,372 @@
+{
+  "code": "0",
+  "msg": "Success",
+  "data": {
+    "dataObject": {
+      "content": [
+        {
+          "is_plan": 1,
+          "entry_employee_id": 1,
+          "sale_type": 1,
+          "order_money": 0,
+          "remark": "这是备注1",
+          "client_id": 1,
+          "sale_number": "5654",
+          "audit_time": 1547691538000,
+          "update_time": 1547693535000,
+          "audit_employee_id": 1,
+          "order_grade": 1,
+          "sale_manual_number": "1231231",
+          "client_order_remark": "这是备注1",
+          "id": 1,
+          "period_id": 183,
+          "deliver_time": 1547693533000,
+          "create_time": 1547691575000,
+          "client_order_number": "123",
+          "client_order_time": 1547691556000,
+          "finish_time": 1547693520000,
+          "is_depot_out": 1,
+          "is_audit": 1,
+          "depot_id": 1,
+          "is_finish": 1,
+          "sale_time": 1547691519000,
+          "status": 1
+        },
+        {
+          "is_plan": 1,
+          "entry_employee_id": 1,
+          "sale_type": 1,
+          "order_money": 0,
+          "remark": "这是备注2",
+          "client_id": 1,
+          "sale_number": "2323123145645",
+          "audit_time": 1547691538000,
+          "update_time": 1547693537000,
+          "audit_employee_id": 1,
+          "order_grade": 1,
+          "sale_manual_number": "5645",
+          "client_order_remark": "这是备注2",
+          "id": 2,
+          "period_id": 183,
+          "deliver_time": 1547693536000,
+          "create_time": 1547691575000,
+          "client_order_number": "123",
+          "client_order_time": 1547691556000,
+          "finish_time": 1547693522000,
+          "is_depot_out": 1,
+          "is_audit": 1,
+          "depot_id": 1,
+          "is_finish": 1,
+          "sale_time": 1547518719000,
+          "status": 1
+        },
+        {
+          "is_plan": 1,
+          "entry_employee_id": 1,
+          "sale_type": 1,
+          "order_money": 0,
+          "remark": "这是备注3",
+          "client_id": 1,
+          "sale_number": "45645634",
+          "audit_time": 1547691538000,
+          "update_time": 1547693541000,
+          "audit_employee_id": 1,
+          "order_grade": 1,
+          "sale_manual_number": "1235454",
+          "client_order_remark": "这是备注3",
+          "id": 3,
+          "period_id": 183,
+          "deliver_time": 1547693538000,
+          "create_time": 1547691575000,
+          "client_order_number": "123",
+          "client_order_time": 1547691556000,
+          "finish_time": 1547693525000,
+          "is_depot_out": 1,
+          "is_audit": 1,
+          "depot_id": 1,
+          "is_finish": 1,
+          "sale_time": 1546309119000,
+          "status": 1
+        },
+        {
+          "is_plan": 1,
+          "entry_employee_id": 1,
+          "sale_type": 1,
+          "order_money": 0,
+          "remark": "这是备注4",
+          "client_id": 1,
+          "sale_number": "43654654",
+          "audit_time": 1547691538000,
+          "update_time": 1547693543000,
+          "audit_employee_id": 1,
+          "order_grade": 1,
+          "sale_manual_number": "67567234",
+          "client_order_remark": "这是备注4",
+          "id": 4,
+          "period_id": 183,
+          "deliver_time": 1547693541000,
+          "create_time": 1547691575000,
+          "client_order_number": "123",
+          "client_order_time": 1547691556000,
+          "finish_time": 1547693527000,
+          "is_depot_out": 1,
+          "is_audit": 1,
+          "depot_id": 1,
+          "is_finish": 1,
+          "sale_time": 1546395519000,
+          "status": 1
+        },
+        {
+          "is_plan": 1,
+          "entry_employee_id": 1,
+          "sale_type": 1,
+          "order_money": 0,
+          "remark": "这是备注5",
+          "client_id": 1,
+          "sale_number": "2312576",
+          "audit_time": 1547691538000,
+          "update_time": 1547693545000,
+          "audit_employee_id": 1,
+          "order_grade": 1,
+          "sale_manual_number": "12312543",
+          "client_order_remark": "这是备注5",
+          "id": 5,
+          "period_id": 183,
+          "deliver_time": 1547693544000,
+          "create_time": 1547691575000,
+          "client_order_number": "123",
+          "client_order_time": 1547691556000,
+          "finish_time": 1547693529000,
+          "is_depot_out": 1,
+          "is_audit": 1,
+          "depot_id": 1,
+          "is_finish": 1,
+          "sale_time": 1546654719000,
+          "status": 1
+        },
+        {
+          "is_plan": 1,
+          "entry_employee_id": 1,
+          "sale_type": 1,
+          "order_money": 0,
+          "remark": "这是备注6",
+          "client_id": 1,
+          "sale_number": "56765342",
+          "audit_time": 1547691538000,
+          "update_time": 1547693554000,
+          "audit_employee_id": 1,
+          "order_grade": 1,
+          "sale_manual_number": "56456457",
+          "client_order_remark": "这是备6",
+          "id": 6,
+          "period_id": 183,
+          "deliver_time": 1547693546000,
+          "create_time": 1547691575000,
+          "client_order_number": "123",
+          "client_order_time": 1547691556000,
+          "finish_time": 1547693531000,
+          "is_depot_out": 1,
+          "is_audit": 1,
+          "depot_id": 1,
+          "is_finish": 1,
+          "sale_time": 1548555519000,
+          "status": 1
+        }
+      ],
+      "pageable": {
+        "sort": {
+          "sorted": false,
+          "unsorted": true
+        },
+        "offset": 0,
+        "pageSize": 20,
+        "pageNumber": 0,
+        "paged": true,
+        "unpaged": false
+      },
+      "last": true,
+      "totalPages": 1,
+      "totalElements": 6,
+      "number": 0,
+      "size": 20,
+      "sort": {
+        "sorted": false,
+        "unsorted": true
+      },
+      "numberOfElements": 6,
+      "first": true
+    },
+    "tableHeader": {
+      "content": [
+        {
+          "show_name": "销售时间",
+          "column_name": "sale_time",
+          "width": 120,
+          "fixed": true,
+          "id": 0
+        },
+        {
+          "show_name": "Accounting period",
+          "column_name": "period_id",
+          "width": 80,
+          "fixed": false,
+          "id": 1
+        },
+        {
+          "show_name": "Sales type",
+          "column_name": "sale_type",
+          "width": 80,
+          "fixed": false,
+          "id": 2
+        },
+        {
+          "show_name": "Sales number",
+          "column_name": "sale_number",
+          "width": 80,
+          "fixed": false,
+          "id": 3
+        },
+        {
+          "show_name": "Sale manual number",
+          "column_name": "sale_manual_number",
+          "width": 80,
+          "fixed": false,
+          "id": 4
+        },
+        {
+          "show_name": "Member id",
+          "column_name": "client_id",
+          "width": 80,
+          "fixed": false,
+          "id": 5
+        },
+        {
+          "show_name": "Entry employee id",
+          "column_name": "entry_employee_id",
+          "width": 80,
+          "fixed": false,
+          "id": 6
+        },
+        {
+          "show_name": "Audit Status",
+          "column_name": "is_audit",
+          "width": 80,
+          "fixed": false,
+          "id": 7
+        },
+        {
+          "show_name": "Audit employee id",
+          "column_name": "audit_employee_id",
+          "width": 80,
+          "fixed": false,
+          "id": 8
+        },
+        {
+          "show_name": "Audit time",
+          "column_name": "audit_time",
+          "width": 80,
+          "fixed": false,
+          "id": 9
+        },
+        {
+          "show_name": "Order completion mark",
+          "column_name": "is_plan",
+          "width": 80,
+          "fixed": false,
+          "id": 10
+        },
+        {
+          "show_name": "Outbound completion mark",
+          "column_name": "is_depot_out",
+          "width": 80,
+          "fixed": false,
+          "id": 11
+        },
+        {
+          "show_name": "Total completion mark",
+          "column_name": "is_finish",
+          "width": 80,
+          "fixed": false,
+          "id": 12
+        },
+        {
+          "show_name": "Final completion time",
+          "column_name": "finish_time",
+          "width": 80,
+          "fixed": false,
+          "id": 13
+        },
+        {
+          "show_name": "Delivery period",
+          "column_name": "deliver_time",
+          "width": 80,
+          "fixed": false,
+          "id": 14
+        },
+        {
+          "show_name": "Order level",
+          "column_name": "order_grade",
+          "width": 80,
+          "fixed": false,
+          "id": 15
+        },
+        {
+          "show_name": "Order amount",
+          "column_name": "order_money",
+          "width": 80,
+          "fixed": false,
+          "id": 16
+        },
+        {
+          "show_name": "Customer order number",
+          "column_name": "client_order_number",
+          "width": 80,
+          "fixed": false,
+          "id": 17
+        },
+        {
+          "show_name": "Customer order date",
+          "column_name": "client_order_time",
+          "width": 80,
+          "fixed": false,
+          "id": 18
+        },
+        {
+          "show_name": "Customer order description",
+          "column_name": "client_order_remark",
+          "width": 80,
+          "fixed": false,
+          "id": 19
+        },
+        {
+          "show_name": "Status",
+          "column_name": "status",
+          "width": 80,
+          "fixed": false,
+          "id": 20
+        },
+        {
+          "show_name": "Remark",
+          "column_name": "remark",
+          "width": 80,
+          "fixed": false,
+          "id": 21
+        },
+        {
+          "show_name": "Create_time",
+          "column_name": "create_time",
+          "width": 80,
+          "fixed": false,
+          "id": 22
+        },
+        {
+          "show_name": "更新时间",
+          "column_name": "update_time",
+          "width": 80,
+          "fixed": false,
+          "id": 23
+        }
+      ]
+    }
+  }
+}
